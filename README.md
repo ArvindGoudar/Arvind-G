@@ -21,8 +21,6 @@ arvind-goudar
 
 
 
-Data Visualization: Creating interactive dashboards and reports in Power BI.
-Business Intelligence: Leveraging data to support decision-making and solve business problems.
 
 <!---
 ArvindGoudar/ArvindGoudar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
