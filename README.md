@@ -13,8 +13,7 @@ Data Visualization
 Data Reporting
 Business Intelligence
 
-I’m always eager to learn and collaborate on data projects. Connect with me on LinkedIn www.linkedin.com/in/
-arvind-goudar
+I’m always eager to learn and collaborate on data projects. Connect with me on LinkedIn www.linkedin.com/in/arvind-goudar
 
 
 
