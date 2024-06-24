@@ -12,10 +12,15 @@ Data Cleaning
 Data Visualization
 Data Reporting
 Business Intelligence
-What I Do
-I specialize in:
 
-Data Analysis: Cleaning, analyzing, and interpreting data using Excel and SQL.
+I’m always eager to learn and collaborate on data projects. Connect with me on LinkedIn www.linkedin.com/in/
+arvind-goudar
+
+
+
+
+
+
 Data Visualization: Creating interactive dashboards and reports in Power BI.
 Business Intelligence: Leveraging data to support decision-making and solve business problems.
 
