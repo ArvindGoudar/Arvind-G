@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a data enthusiast from Bengaluru, Karnataka, w
 
 ## Skills
 
-- **MS Excel**: Advanced data manipulation, pivot tables, and data visualization
+- **MS Excel**: Advanced data manipulation, data cleaning, data transformation, pivot tables, power pivot, power query and data visualization
 - **SQL**: Database querying, data extraction, and management
 - **MS Power BI**: Interactive data visualization, dashboards, and reports
 
