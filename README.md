@@ -1,6 +1,6 @@
 # Hello, I'm Arvind Goudar!
 
-Welcome to my GitHub profile! I'm a data enthusiast from Bengaluru, Karnataka, with a Bachelor of Engineering in Electronics and Communication. I'm passionate about leveraging my analytical skills to solve business problems and am currently seeking an entry-level position in data analytics.
+Welcome to my GitHub profile! I'm a data enthusiast from Bengaluru, Karnataka, with a Bachelor of Engineering in Electronics and Communication. I'm passionate about leveraging my analytical skills to solve business problems and i am currently seeking an entry-level position in data analytics.
 
 ## About Me
 
