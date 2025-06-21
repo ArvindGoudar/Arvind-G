@@ -1,5 +1,5 @@
 # 👋 Hello there! I'm Arvind Goudar
-Welcome to my GitHub! I'm a data enthusiast from Bengaluru, Karnataka 🇮🇳 with a background in Electronics and Communication Engineering. I'm passionate about turning data into actionable insights to solve real-world business problems. Currently, I’m actively looking for an entry-level opportunity in Data Analytics.
+Welcome to my GitHub! I'm a data enthusiast from Bengaluru, Karnataka with a background in Electronics and Communication Engineering. I'm passionate about turning data into actionable insights to solve real-world business problems. Currently, I’m actively looking for an entry-level opportunity in Data Analytics.
 
 ## 👨‍💻 About Me
 🎓 Education: B.E. in Electronics & Communication Engineering
